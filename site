@@ -1,3 +1,9 @@
-index.html
-
-
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Hello coursera<title>
+</head>
+<body>
+<h1>hello coursera!</h1>
+</body>
+</html>
